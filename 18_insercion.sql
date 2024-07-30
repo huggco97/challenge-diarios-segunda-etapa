@@ -1,4 +1,4 @@
--- Inserción de datos: Escribe una consulta SQL para insertar un solo registro en la tabla Usuarios.
+-- Inserción de datos: Escribe una consulta SQL para insertar un solo registro en la tabla Usuarios...
 
 CREATE TABLE Usuario (
     id_usuario int NOT NULL PRIMARY KEY,
