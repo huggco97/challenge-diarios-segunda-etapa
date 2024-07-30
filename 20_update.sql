@@ -1,4 +1,4 @@
--- Actualizar registros: Escribe una consulta SQL para actualizar el nombre de un usuario específico en la tabla Usuarios.
+-- Actualizar registros: Escribe una consulta SQL para actualizar el nombre de un usuario específico en la tabla Usuarios...
 
 
 CREATE TABLE Usuario (
