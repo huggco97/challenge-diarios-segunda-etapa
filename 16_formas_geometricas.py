@@ -1,5 +1,5 @@
 # Formas geométricas: Define una clase base FormaGeometrica con métodos calcular_area y calcular_perimetro. 
-# Crea clases derivadas Rectangulo y Circulo que sobrescriban estos métodos.
+# Crea clases derivadas Rectangulo y Circulo que sobrescriban estos métodos...
 
 from abc import ABC, abstractmethod
 
