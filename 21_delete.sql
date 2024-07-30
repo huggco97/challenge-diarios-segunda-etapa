@@ -1,4 +1,4 @@
---Eliminar registros: Escribe una consulta SQL para eliminar un usuario específico de la tabla Usuarios.
+--Eliminar registros: Escribe una consulta SQL para eliminar un usuario específico de la tabla Usuarios...
 
 
 CREATE TABLE Usuario (
