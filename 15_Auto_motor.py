@@ -1,4 +1,4 @@
-#Auto y Motor: Implementa una clase Auto que contenga una instancia de una clase Motor con un método para describir el motor.
+#Auto y Motor: Implementa una clase Auto que contenga una instancia de una clase Motor con un método para describir el motor...
 
 class Motor:
     def __init__(self, tipo, potencia, consumo):
