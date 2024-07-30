@@ -1,5 +1,5 @@
 # Figura y Círculo: Crea una clase base Figura con un método imprimir y una clase derivada 
-# Círculo que extienda Figura y sobreescriba el método imprimir.
+# Círculo que extienda Figura y sobreescriba el método imprimir...
 
 class Figura:
     def __init__(self, base, altura, diametro):
