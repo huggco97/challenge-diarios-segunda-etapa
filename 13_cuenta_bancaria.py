@@ -1,4 +1,4 @@
-#Cuenta bancaria: Implementa una clase CuentaBancaria con métodos para depositar y consultar el saldo.
+#Cuenta bancaria: Implementa una clase CuentaBancaria con métodos para depositar y consultar el saldo...
 import random
 
 class Cuenta:
