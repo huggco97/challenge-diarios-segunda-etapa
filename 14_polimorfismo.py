@@ -1,4 +1,4 @@
-#Polimorfismo: Crea una clase base Animal con un método hacerSonido y una clase derivada Perro que sobrescriba este método.
+#Polimorfismo: Crea una clase base Animal con un método hacerSonido y una clase derivada Perro que sobrescriba este método...
 
 class Animal:
     def __init__(self, especie, pelo, patas, color):
