@@ -1,4 +1,4 @@
--- Consulta básica: Escribe una consulta SQL para seleccionar todos los registros de la tabla Usuarios.
+-- Consulta básica: Escribe una consulta SQL para seleccionar todos los registros de la tabla Usuarios...
  
 CREATE TABLE Usuario (
     id_usuario int NOT NULL PRIMARY KEY,
