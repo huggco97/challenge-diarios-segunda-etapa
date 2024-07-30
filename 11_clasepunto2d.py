@@ -1,4 +1,4 @@
-#Clase de Punto 2D: Crea una clase Punto2D con atributos x & y, y un método para imprimir sus coordenadas.
+#Clase de Punto 2D: Crea una clase Punto2D con atributos x & y, y un método para imprimir sus coordenadas...
 class Punto2D:
     def __init__(self, px, py):
         self.px = px
