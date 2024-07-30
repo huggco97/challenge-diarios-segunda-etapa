@@ -1,4 +1,4 @@
-#Recorrido en profundidad (DFS): Implementa un recorrido DFS para un grafo simple con 5 nodos.
+#Recorrido en profundidad (DFS): Implementa un recorrido DFS para un grafo simple con 5 nodos...
 grafo = {
     0 : [1, 2],
     1 : [0, 3],
